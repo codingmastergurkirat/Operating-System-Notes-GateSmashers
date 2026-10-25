@@ -3,19 +3,19 @@
 ## Priority 1: Must Know
 
 ### 1. OS Fundamentals
-- [ ] What is an Operating System?
-- [ ] Functions of an Operating System
-- [ ] Types of Operating Systems
+- [x] What is an Operating System?
+- [x] Functions of an Operating System
+- [x] Types of Operating Systems
 - [ ] Kernel and Shell
-- [ ] User Mode vs. Kernel Mode
+- [x] User Mode vs. Kernel Mode
 - [ ] System Calls and Their Types
 - [ ] Interrupts
 - [ ] Context Switching
 
 ### 2. Processes and Threads
 - [ ] What is a Process?
-- [ ] Process States
-- [ ] Process State Transitions
+- [x] Process States
+- [x] Process State Transitions
 - [ ] Process Control Block (PCB)
 - [ ] Process vs. Program
 - [ ] Process vs. Thread

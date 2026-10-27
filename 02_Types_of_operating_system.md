@@ -359,3 +359,8 @@ Not every embedded system requires a full operating system; some simple devices 
 | Embedded Operating System | Manages a device designed for specific functions | Washing machine, microwave oven, air conditioner |
 
 ---
+
+**References:**
+- [Batch Operating System and Types of OS](https://www.youtube.com/watch?v=povNcHSasgs&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=3)
+- [Multiprogramming and Multitasking Operating Systems](https://www.youtube.com/watch?v=3MqyDWDpZoI&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=4)
+- [Real-Time, Distributed, Clustered, and Embedded Operating Systems](https://www.youtube.com/watch?v=YQZbIT9FcUk&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=5)

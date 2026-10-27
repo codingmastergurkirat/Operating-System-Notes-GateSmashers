@@ -1,3 +1,5 @@
+**For Better Understanding of concepts watch the video first:** [Watch the explanation on YouTube](https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=2&t=753s).
+
 # Operating System — Introduction and Functionalities
 
 ## 1. Operating System
@@ -109,7 +111,4 @@ Examples :
 
 For example, when an application opens a file, it requests the operating system to perform the required operation. System calls provide the interface through which applications request such services.
 
-**Refrences:**
-
-**For more understanding:** [Watch the explanation on YouTube](https://www.youtube.com/watch?v=WJ-UaAaumNA&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=2&t=753s).
 

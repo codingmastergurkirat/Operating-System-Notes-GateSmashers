@@ -1,3 +1,5 @@
+**For Better Understanding of concepts first watch the video lecture :** [Watch The Explaination video](https://www.youtube.com/watch?v=2dJdHMpCLIg&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&index=6&pp=iAQB)
+
 # Process States
 
 The five primary process states are:
